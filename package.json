@@ -1,0 +1,31 @@
+{
+  "name": "react-native-animated-weather-icons",
+  "version": "1.0.0",
+  "description": "Animated SVG weather icons for react native",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stan-sack/react-native-animated-weather-icons.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "svg",
+    "weather",
+    "icon",
+    "animated",
+    "rain",
+    "sun",
+    "snow",
+    "wind"
+  ],
+  "author": "Stan Tsouvallas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stan-sack/react-native-animated-weather-icons/issues"
+  },
+  "homepage": "https://github.com/stan-sack/react-native-animated-weather-icons#readme"
+}
